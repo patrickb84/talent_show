@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #141818;
+}
+
+.typeform-widget {
+    height: 100%;
+}

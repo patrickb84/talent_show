@@ -2,8 +2,11 @@ import TypeFormWidget from './components/TypeFormWidget';
 
 function App() {
   return (
-    <TypeFormWidget />
+    <main>
+        <TypeFormWidget />
+    </main>
   );
 }
 
 export default App;
+F

@@ -1,0 +1,16 @@
+html, body, #root {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: #141818;
+}
+
+.signUpTypeForm {
+    height: 100%;
+}
+
+.typeform-widget iframe {
+    border-radius: 0;
+}

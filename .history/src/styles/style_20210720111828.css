@@ -1,0 +1,11 @@
+html, body, #root {
+    height: 100%;
+}
+
+body {
+    background-color: #141818;
+}
+
+.signUpTypeForm {
+    height: 100%;
+}
