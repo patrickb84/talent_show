@@ -4,7 +4,7 @@ import header from '../img/80s_palm.jpg';
 const HomeScreen = () => {
   return (
     <div className='screen-padding bg-black h-100'>
-      <div className='row g-0'>
+      <div className='row g-0 d-xl-flex align-items-xl-center'>
         <div className='col-xl-4 order-2 order-xl-1'>
           <div className='p-xl-4 p-3 text-light mb-5' style={{ maxWidth: 600 }}>
             <h1 className='mb-3 mt-4'>Hi everybody,</h1>
