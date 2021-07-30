@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import header from '../img/80S_letsrock.jpg';
 
 const SongBookScreen = () => {
@@ -28,31 +27,31 @@ const SongBookScreen = () => {
                 <p>By Starship</p>
                 <ul>
                   <li>
-                    <Link to='https://www.youtube.com/watch?v=vJVtAzpX50k'>
+                    <a href='https://www.youtube.com/watch?v=vJVtAzpX50k'>
                       SONG + LYRICS
-                    </Link>{' '}
+                    </a>{' '}
                     (youtube)
                   </li>
                   <li>
-                    <Link to='https://www.youtube.com/watch?v=xGabtm2HXeo'>
+                    <a href='https://www.youtube.com/watch?v=xGabtm2HXeo'>
                       Backing Track
-                    </Link>{' '}
+                    </a>{' '}
                     (youtube)
                   </li>
                   <li>
-                    <Link to='https://www.google.com/search?q=nothings+gonna+stop+us+lyrics'>
+                    <a href='https://www.google.com/search?q=nothings+gonna+stop+us+lyrics'>
                       Just lyrics
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link to='https://tabs.ultimate-guitar.com/tab/starship/nothings-gonna-stop-us-now-chords-860555'>
+                    <a href='https://tabs.ultimate-guitar.com/tab/starship/nothings-gonna-stop-us-now-chords-860555'>
                       Chords
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link to='https://tabs.ultimate-guitar.com/tab/starship/nothings-gonna-stop-us-now-chords-1415096'>
+                    <a href='https://tabs.ultimate-guitar.com/tab/starship/nothings-gonna-stop-us-now-chords-1415096'>
                       Guitar chords: capo 2nd fret
-                    </Link>
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -62,31 +61,31 @@ const SongBookScreen = () => {
                 <p>By Bon Jovi (aka yr moms fave)</p>
                 <ul>
                   <li>
-                    <Link to='https://www.youtube.com/watch?v=bXsmGSnq3lE'>
+                    <a href='https://www.youtube.com/watch?v=bXsmGSnq3lE'>
                       SONG + LYRICS
-                    </Link>{' '}
+                    </a>{' '}
                     (youtube)
                   </li>
                   <li>
-                    <Link to='https://www.youtube.com/watch?v=9-A_Bpi_Pbo'>
+                    <a href='https://www.youtube.com/watch?v=9-A_Bpi_Pbo'>
                       Backing Track
-                    </Link>{' '}
+                    </a>{' '}
                     (youtube)
                   </li>
                   <li>
-                    <Link to='https://www.google.com/search?q=livin+on+a+prayer+lyrics'>
+                    <a href='https://www.google.com/search?q=livin+on+a+prayer+lyrics'>
                       Just lyrics
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link to='https://tabs.ultimate-guitar.com/tab/bon-jovi/livin-on-a-prayer-chords-687555'>
+                    <a href='https://tabs.ultimate-guitar.com/tab/bon-jovi/livin-on-a-prayer-chords-687555'>
                       Chords
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link to='https://www.youtube.com/watch?v=lDK9QqIzhwk'>
+                    <a href='https://www.youtube.com/watch?v=lDK9QqIzhwk'>
                       Official Music Video
-                    </Link>{' '}
+                    </a>{' '}
                     (youtube)
                   </li>
                 </ul>
@@ -97,31 +96,31 @@ const SongBookScreen = () => {
                 <p>By Tina Turner</p>
                 <ul>
                   <li>
-                    <Link to='https://www.youtube.com/watch?v=wTm5-YZJ5q4'>
+                    <a href='https://www.youtube.com/watch?v=wTm5-YZJ5q4'>
                       SONG + LYRICS
-                    </Link>{' '}
+                    </a>{' '}
                     (youtube)
                   </li>
                   <li>
-                    <Link to='https://www.youtube.com/watch?v=EmSdwh1LBn0'>
+                    <a href='https://www.youtube.com/watch?v=EmSdwh1LBn0'>
                       Backing Track
-                    </Link>{' '}
+                    </a>{' '}
                     (youtube)
                   </li>
                   <li>
-                    <Link to='https://www.google.com/search?q=simply+the+best+lyrics'>
+                    <a href='https://www.google.com/search?q=simply+the+best+lyrics'>
                       Just lyrics
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link to='https://tabs.ultimate-guitar.com/tab/tina-turner/the-best-chords-152012'>
+                    <a href='https://tabs.ultimate-guitar.com/tab/tina-turner/the-best-chords-152012'>
                       Chords
-                    </Link>
+                    </a>
                   </li>
                   <li>
-                    <Link to='https://www.youtube.com/watch?v=MsRUnInJ4CQ'>
+                    <a href='https://www.youtube.com/watch?v=MsRUnInJ4CQ'>
                       This beautiful cover...
-                    </Link>{' '}
+                    </a>{' '}
                     (youtube)
                   </li>
                 </ul>
@@ -133,26 +132,26 @@ const SongBookScreen = () => {
                 <p>By Ben E. King</p>
                 <ul>
                   <li>
-                    <Link to='https://www.youtube.com/watch?v=tTSjI-_RwEE'>
+                    <a href='https://www.youtube.com/watch?v=tTSjI-_RwEE'>
                       SONG + LYRICS
-                    </Link>{' '}
+                    </a>{' '}
                     (youtube)
                   </li>
                   <li>
-                    <Link to=''>Just lyrics</Link>
+                    <a href=''>Just lyrics</a>
                   </li>
                   <li>
-                    <Link to=''>Chords</Link>
+                    <a href=''>Chords</a>
                   </li>
                   <li>
-                    <Link to=''>Guitar chords: capo 2nd fret</Link>
+                    <a href=''>Guitar chords: capo 2nd fret</a>
                   </li>
                 </ul>
               </div> */}
             </div>
             <div className='text-white border-top pt-4 mt-5'>
               Got a request?{' '}
-              <Link to='mailto:patrick.j.bradshaw@gmail.com'>Let us know!</Link>
+              <a href='mailto:patrick.j.bradshaw@gmail.com'>Let us know!</a>
             </div>
           </div>
 
